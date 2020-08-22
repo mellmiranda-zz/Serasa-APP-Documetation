@@ -1,0 +1,15 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2,
+h1 {
+  color: #e63888;
+}
+p {
+  color: #5b5b5b;
+}

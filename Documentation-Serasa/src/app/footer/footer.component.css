@@ -1,0 +1,20 @@
+footer {
+  min-height: 5vh;
+  background-color: #e63888;
+  color: white;
+  text-align: center;
+}
+
+footer > a {
+  color: #5b5b5b;
+  margin-left: 5px;
+  font-weight: bold;
+}
+
+@media (min-width: 1024px) {
+  footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

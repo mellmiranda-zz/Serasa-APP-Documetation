@@ -1,0 +1,25 @@
+.btn {
+  background-color: #e63888;
+  color: white;
+}
+
+.modal-body > a,
+.navbar-nav > a:hover {
+  color: #e63888;
+}
+
+.modal-body > img {
+  width: 20px;
+  margin-right: 10px;
+}
+
+.btn:focus {
+  box-shadow: 0 0 0 0.2rem rgba(6, 7, 7, 0.25);
+}
+
+@media (min-width: 1024px) {
+  .nav-item,
+  .navbar-nav > button {
+    margin-left: 2rem;
+  }
+}

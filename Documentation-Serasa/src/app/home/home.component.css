@@ -1,0 +1,9 @@
+.container-home {
+  min-height: 45vh;
+}
+
+@media (min-width: 1024px) {
+  .container-home {
+    min-height: 80vh;
+  }
+}

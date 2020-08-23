@@ -1,3 +1,3 @@
-# Serasa-APP-Documetation
+# LadyCred - Documentação
 Para ver a documentação acessar:
-https://documentacao-serasa.netlify.app/
+https://documentacao-ladycred.netlify.app/home

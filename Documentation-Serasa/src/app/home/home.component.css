@@ -24,7 +24,8 @@
   max-width: 70%;
 }
 
-.link-personas a {
+.link-personas a,
+.subtitle {
   color: #e63888;
   text-decoration: underline;
 }

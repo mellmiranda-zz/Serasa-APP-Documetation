@@ -2,8 +2,43 @@
   min-height: 45vh;
 }
 
+.card-body > a {
+  color: #5b5b5b;
+  text-decoration: underline;
+}
+.card-body > img {
+  width: 20px;
+  margin-right: 10px;
+}
+
+.persona {
+  flex-flow: column;
+}
+
+.persona > img {
+  width: 240px;
+  margin-right: 10px;
+}
+
+.col-6 {
+  max-width: 70%;
+}
+
+.link-personas a {
+  color: #e63888;
+  text-decoration: underline;
+}
+
 @media (min-width: 1024px) {
   .container-home {
-    min-height: 80vh;
+    min-height: 60vh;
+  }
+  .persona > img {
+    width: 400px;
+    margin-right: 10px;
+  }
+
+  .col-6 {
+    max-width: 35%;
   }
 }
